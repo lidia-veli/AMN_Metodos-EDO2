@@ -1,5 +1,3 @@
-import numpy as np
-
 def euler_edo2(Fx, a, b, y0, y1, N, Px, Qx):
     '''funcion que resuleve la EDO2 de la forma y'' + p(x)y' + q(x)y = f(x)
     
